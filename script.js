@@ -38,7 +38,7 @@ function isCollide(snake) {
         return true;
     }
 }
-
+///
 function gameEngine() {
     //part 1: Updating the snake array and Food;
     if (isCollide(snakeArr)) {
