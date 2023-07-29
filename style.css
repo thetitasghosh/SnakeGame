@@ -14,7 +14,7 @@ body{
 
 }
 #board{
-   background: linear-gradient(rgb(93, 218, 93),yellow);
+   background: linear-gradient(rgb(124, 180, 124),rgb(78, 78, 57));
    width: 90vmin;
    height: 92vmin;
    border: 5px solid rgb(215, 208, 208);
